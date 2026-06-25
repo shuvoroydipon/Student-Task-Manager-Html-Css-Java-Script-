@@ -81,7 +81,6 @@ git clone https://github.com/your-username/student-task-manager.git
 ## 📸 Screenshot
 
 Add a screenshot of your project here.
-## Screenshot_2.png
 ![Student-Task-Manager-Html-Css-Java-Script-](Screenshot_2.png)
 
 ## 👨‍💻 Author
